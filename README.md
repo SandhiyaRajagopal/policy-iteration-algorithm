@@ -4,7 +4,7 @@
 Implement policy iteration algorithm to find optimal policy by iteratively maximizing the value function.
 
 ## PROBLEM STATEMENT
-Finding the optimal policy to start from start state and reach goal state in the frozen lake environment using policy iteration.
+The aim of this experiment is to find optimal policy for the mdp using policy iteration. Policy iteration includes policy evaluation and policy improvement where evaluation function is used to find optimal value function of each state and then improvement function is used to find best policy by comparing all the action value function as well as policy.
 
 ## POLICY ITERATION ALGORITHM
 # Step 1:
